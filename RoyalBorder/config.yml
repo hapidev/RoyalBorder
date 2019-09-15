@@ -1,0 +1,6 @@
+damageOutsideBorder: true
+damageOutsideBorderAmount: 1
+messageWorldBorderCreated: "WorldBorder created !"
+messageWorldBorderRemoved: "WorldBorder removed !"
+messageNoPermission: "You don't have permission ! Add rb.admin"
+messageUsage: "Usage: /rb setworldborder <size>"

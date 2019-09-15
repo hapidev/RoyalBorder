@@ -1,0 +1,8 @@
+name: RoyalBorder
+version: 1.0
+author: Htez
+main: fr.htez.royalborder.Main
+api-version: 1.13
+commands:
+  rb:
+    description: RoyalBorder commands
